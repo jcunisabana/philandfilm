@@ -155,6 +155,7 @@ Readings:
  - Smith, Murray (2006) ‘Film Art, Argument and Ambiguity’. 2006, in Murray Smith andThomas E. Wartenberg Thinking Through Cinema: Film as Philosophy. Oxford: Blackwell.
  - Livingston, Paisley (2006). Theses on cinema as philosophy. Journal of Aesthetics and Art Criticism 64 (1):11–18.
  
+ 
  Podcasts:
  
  - [Julian Baggini on Thought Experiments](http://philosophybites.com/2007/12/julian-baggini.html)
