@@ -7,8 +7,6 @@ Course introduction: film as a way of doing philosophy and philosophical themes 
 
 ##  Is knowledge possible?
 Film: Total Recall (1990)
-[](https://www.youtube.com/watch?v=WFMLGEHdIjE)
-
 Readings: 
 
 - Descartes. *Meditations*. First meditation
@@ -20,7 +18,6 @@ Podcasts:
 
 ## What is knowledge?
 Films: Total Recall (1990) & Matrix (1999)
-[](https://www.youtube.com/watch?v=m8e-FF8MsqU)
 
 Readings: 
 
@@ -30,7 +27,6 @@ Readings:
 
 ## Is reality important?
 Films: Total Recall (1990), Matrix (1999), The Truman Show (1998)
-[](https://www.youtube.com/watch?v=c3gI9ms8Fdc)
 
 Readings:
 
@@ -55,8 +51,6 @@ Activity:
 
 ## What is personal identity?
 Film: Memento (2000)
-[](https://www.youtube.com/watch?v=0vS0E9bBSL0)
-
 
 Readings:
 
@@ -71,8 +65,6 @@ Podcasts:
 ## What is it to be human?
 Film: Blade Runner (1982)
 
-[](https://www.youtube.com/watch?v=KPcZHjKJBnE)
-
 Reading:
 
 - Mulhall, Stephen (2007). Picturing the human (body and soul): A reading of Blade Runner. Film and Philosophy 1:87-104.
@@ -86,7 +78,6 @@ Special guest: Dr. Vivan Joseph.
 
 ## Is there free will?
 Film: Minority report
-[](https://www.youtube.com/watch?v=lG7DGMgfOb8)
 
 Readings: 
 
@@ -109,9 +100,6 @@ Activity:
 ## Is time-travel possible?
 Films: La Jetée & Interstellar
 
-[](https://www.youtube.com/watch?v=6anMLFwHFqs)
-[](https://www.youtube.com/watch?v=zSWdZVtXT7E)
-
 Reading: 
 
 - Cox & Levine "La Jetée and the Promise of Time Travel" 
@@ -125,8 +113,6 @@ Podcasts:
 ## Why is morality not relative?
 
 Film: The art of killing
-
-[](https://www.youtube.com/watch?v=SD5oMxbMcHM)
 
 Reading:
 
