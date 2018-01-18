@@ -68,7 +68,7 @@ Film: Blade Runner (1982)
 Reading:
 
 - Mulhall, Stephen (2007). Picturing the human (body and soul): A reading of Blade Runner. Film and Philosophy 1:87-104.
-
+- Nagel, Thomas (1974). What is it like to be a bat? Philosophical Review 83 (October):435-50. 
 
 Podcasts:
 
