@@ -11,7 +11,7 @@ Can film be a credible way of doing philosophy? Is philosophy done in film in th
 
 
 
-*Professor:* [Juan Camilo Espejo-Serna](http://jcunisabana.github.io/)
+*Lecturer:* [Juan Camilo Espejo-Serna](http://jcunisabana.github.io/)
 
 *Email:* juan.espejo1@unisabana.edu.co
 
