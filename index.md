@@ -37,7 +37,7 @@ Can film be a credible way of doing philosophy? Is philosophy done in film in th
 ##Assessment
 <p style="color:white; background-color:Tomato; padding: 5px; "> Unjustified late submissions will **always** be marked down 0.5 units per day.</p>
 
-Attention: Assessment methods to be determined on the second week based on student numbers.
+Attention: Assessment methods to be determined based on student numbers in the second week.
 
 <!--
 |Module|Activity|Percentage|
