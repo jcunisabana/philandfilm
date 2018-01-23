@@ -4,8 +4,8 @@
 
 ## Introduction
 Course introduction: film as a way of doing philosophy and philosophical themes in film. Personal introductions. Discussion of assessement methods. 
-
-<a href="../philandfilm/1.html">Presentación semana 1</a>
+<iframe width="100%" height="400" align="middle" src="../philandfilm/1.html" border="0"></iframe>
+<a href="../philandfilm/1.html">Slides in new window</a>
 
 
 ##  Is knowledge possible?
