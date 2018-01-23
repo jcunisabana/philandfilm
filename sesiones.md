@@ -144,7 +144,7 @@ Readings:
  
  Podcasts:
  
- - [Julian Baggini on Thought Experiments](http://philosophybites.com/2007/12/julian-baggini.html)
+  - [Stephen Mulhall on Film as Philosophy](http://philosophybites.com/2008/02/stephen-mulhall.html)
 
 
  
