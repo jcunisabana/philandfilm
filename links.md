@@ -17,5 +17,3 @@ A podcast on several philosophical topics
 <a href="https://www.youtube.com/watch?v=6anMLFwHFqs">  <img src="img/jettee.jpg"></a>
 <a href="https://www.youtube.com/watch?v=SD5oMxbMcHM"> <img src="img/actfokilling.jpg"></a>
 <a href="https://www.youtube.com/watch?v=BpzVFdDeWyo"> <img src="img/gattaca.jpg"></a>
-   
-    
