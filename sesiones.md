@@ -5,6 +5,9 @@
 ## Introduction
 Course introduction: film as a way of doing philosophy and philosophical themes in film. Personal introductions. Discussion of assessement methods. 
 
+<a href="../philandfilm/1.html">Presentación semana 1</a>
+
+
 ##  Is knowledge possible?
 Film: Total Recall (1990)
 Readings: 
