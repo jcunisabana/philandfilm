@@ -12,7 +12,6 @@ A podcast on several philosophical topics
 <a href="https://www.youtube.com/watch?v=c3gI9ms8Fdc"> <img src="img/Trumanshow.jpg"></a>
 <a href="https://www.youtube.com/watch?v=0vS0E9bBSL0"> <img src="img/memento%20.jpg"></a>
 <a href="https://www.youtube.com/watch?v=KPcZHjKJBnE"> <img src="img/bladerunner.jpg"></a>
-
 <a href="https://www.youtube.com/watch?v=lG7DGMgfOb8"> <img src="img/minorityreport.jpg"></a>
 <a href="https://www.youtube.com/watch?v=zSWdZVtXT7E"> <img src="img/interstellar.jpg"></a>
 <a href="https://www.youtube.com/watch?v=6anMLFwHFqs">  <img src="img/jettee.jpg"></a>
