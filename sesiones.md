@@ -5,7 +5,7 @@
 ## Introduction
 Course introduction: film as a way of doing philosophy and philosophical themes in film. Personal introductions. Discussion of assessement methods. 
 <iframe width="100%" height="400" align="middle" src="../philandfilm/1.html" border="0"></iframe>
-<a href="../philandfilm/1.html">Slides in new window</a>
+<a href="../philandfilm/1.html">Slides in full screen</a>
 
 
 ##  Is knowledge possible?
@@ -18,6 +18,9 @@ Podcasts:
 
 -  [Barry Stroud on Scepticism](http://philosophybites.com/2007/12/barry-stroud-on.html)
 - [Eric Schwitzgebel on Scepticism](http://philosophybites.com/2018/01/eric-schwitzgebel-on-scepticism.html)
+
+<iframe width="100%" height="400" align="middle" src="../philandfilm/2.html" border="0"></iframe>
+<a href="../philandfilm/2.html">Slides in full screen</a>
 
 ## What is knowledge?
 Films: Total Recall (1990) & Matrix (1999)
