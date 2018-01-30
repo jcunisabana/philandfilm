@@ -39,13 +39,32 @@ Can film be a credible way of doing philosophy? Is philosophy done in film in th
 
 |Module|Activity|Percentage|
 | --- | --- | --- |
-|1|    Weekly task            |15%
+|1|    Reading summary            |15%
 |    1 |   Skeptical scenario 1                               |    15%
- |    2 |     Weekly task                            |   15%
+ |    2 |     Reading summary                            |   15%
 |     2 |     Skeptical scenario 2                             |  15%
  |    3 |    Essay plan   |    10%
   |   3  |   Short Essay         |           30%
+#### Reading summary
+Word count: 200 words
 
+For every reading, students must identify the main thesis, three reasons given in favour of it, and three questions or challenges to the reading.
+
+
+#### Skeptical scenario
+Word count: 500 words
+
+A short outline of a scene that presents and explains a skeptical scenario. 
+
+#### Abstract
+Word count: 500 words
+
+A short text in which you present the main thesis of your essay *and* the argumentative strategy you will deploy.
+
+#### Short essay
+Word count: 1000 to 2000 words
+
+A short text in which you defend a philosophical thesis. You must use the secondary literature, offer a clear argument and relate it to at least one of the films. 
 
 
 
