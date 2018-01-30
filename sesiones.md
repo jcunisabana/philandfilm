@@ -28,7 +28,7 @@ Readings:
 - [The Gettier Problen](https://1000wordphilosophy.com/2014/04/10/the-gettier-problem/) in 1000-Word Philosophy.
 - Ichikawa, Jonathan Jenkins and Steup, Matthias, "The Analysis of Knowledge", The Stanford Encyclopedia of Philosophy (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2017/entries/knowledge-analysis/>. Sections [3](https://plato.stanford.edu/entries/knowledge-analysis/#GettProb), [4](https://plato.stanford.edu/entries/knowledge-analysis/#NoFalsLemm), [5](https://plato.stanford.edu/entries/knowledge-analysis/#ModaCond) and [6](https://plato.stanford.edu/entries/knowledge-analysis/#DoinWithJust)
 
-## Is reality important?
+## Why is reality important?
 Films: Total Recall (1990), Matrix (1999), The Truman Show (1998)
 
 Readings:
