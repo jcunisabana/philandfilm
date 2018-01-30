@@ -37,18 +37,15 @@ Can film be a credible way of doing philosophy? Is philosophy done in film in th
 ##Assessment
 <p style="color:white; background-color:Tomato; padding: 5px; "> Unjustified late submissions will **always** be marked down 0.5 units per day.</p>
 
-Attention: Assessment methods to be determined based on student numbers in the second week.
-
-<!--
 |Module|Activity|Percentage|
 | --- | --- | --- |
-|1|    Class participation               |15%
- |    1 |    Reseña                              |    15%
- |    2 |    Protocolo                            |   15%
-|     2 |    Relatoría                             |  15%
- |    3 |    Abstract del ensayo argumentativo   |    10%
-  |   3  |   Ensayo argumentativo         |           30%
--->
+|1|    Weekly task            |15%
+|    1 |   Skeptical scenario 1                               |    15%
+ |    2 |     Weekly task                            |   15%
+|     2 |     Skeptical scenario 2                             |  15%
+ |    3 |    Essay plan   |    10%
+  |   3  |   Short Essay         |           30%
+
 
 
 
