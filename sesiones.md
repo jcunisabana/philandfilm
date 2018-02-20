@@ -49,6 +49,10 @@ Podcasts:
 
 - [Roger Crisp on Utilitarianism](http://philosophybites.com/2007/07/roger-crisp-on-.html)
 
+
+<iframe width="100%" height="400" align="middle" src="../philandfilm/4.html" border="0"></iframe>
+<a href="../philandfilm/4.html">Slides in full screen</a>
+
 ## Dealing with scepticism about knowledge
 
 Readings:
