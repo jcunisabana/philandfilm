@@ -46,15 +46,25 @@ Can film be a credible way of doing philosophy? Is philosophy done in film in th
  |    3 |    Essay plan   |    10%
   |   3  |   Short Essay         |           30%
 #### Reading summary
-Word count: 200 words
+Word count: 500 words
 
-For every reading, students must identify the main thesis, three reasons given in favour of it, and three questions or challenges to the reading.
+For on of the readings reading, students must identify the main thesis, three reasons given in favour of it, and three questions or challenges to the reading.
 
 
 #### Skeptical scenario
 Word count: 500 words
 
 A short outline of a scene that presents and explains a skeptical scenario. 
+<ul>
+	<li class="fragment">Pick one of the three films and one of the three questions we have touched upon in class.  </li>
+
+<li class="fragment">Select scenes/quotes from the film that help present the question</li>    
+        <li class="fragment">Structure a version of the question on the basis of the scences/quotes</li>    
+
+<li class="fragment">Select scenes/quotes from the film that help answer the question</li>  
+    <li class="fragment">Structure an answer to the question on the basis of the scenes/quotes</li>    
+
+</ul>
 
 #### Abstract
 Word count: 500 words
