@@ -56,14 +56,11 @@ Word count: 500 words
 
 A short outline of a scene that presents and explains a skeptical scenario. 
 <ul>
-	<li class="fragment">Pick one of the three films and one of the three questions we have touched upon in class.  </li>
-
+<li class="fragment">Pick one of the three films and one of the three questions we have touched upon in class.  </li>
 <li class="fragment">Select scenes/quotes from the film that help present the question</li>    
-        <li class="fragment">Structure a version of the question on the basis of the scences/quotes</li>    
-
-<li class="fragment">Select scenes/quotes from the film that help answer the question</li>  
-    <li class="fragment">Structure an answer to the question on the basis of the scenes/quotes</li>    
-
+<li class="fragment">Structure a version of the question on the basis of the scences/quotes</li>    
+<li class="fragment">Select scenes/quotes from the film that help answer the question</li>    
+<li class="fragment">Structure an answer to the question on the basis of the scenes/quotes</li>    
 </ul>
 
 #### Abstract
