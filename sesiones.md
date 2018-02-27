@@ -71,7 +71,7 @@ Activity:
 <a href="../philandfilm/6.html">Slides in full screen</a>
 
 ## What is it to be human?
-Film: Blade Runner (1982)
+Film: Blade Runner (1982) Final Cut.
 
 Reading:
 
