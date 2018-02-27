@@ -63,18 +63,11 @@ Activity:
 
 - Design a skeptical scenario about knowledge and how to get out of it.
 
-## What is personal identity?
-Film: Memento (2000)
+<iframe width="100%" height="400" align="middle" src="../philandfilm/5.html" border="0"></iframe>
+<a href="../philandfilm/5.html">Slides in full screen</a>
 
-Readings:
+## Self assessment  
 
-- Cox & Levine "Personal Identity: The Case of Memento".
-- [Personal Identity](https://1000wordphilosophy.com/2014/02/10/personal-identity/) in 1000-Word Philosophy.
-
-Podcasts:
-
-- [Christopher Shields on Personal Identity](http://philosophybites.com/2008/11/christopher-shi.html)
-- [Paul Snowdon on Persons and Animals](http://philosophybites.com/2009/06/paul-snowdon-on-persons-and-animals.html)
 
 ## What is it to be human?
 Film: Blade Runner (1982)
@@ -89,6 +82,19 @@ Podcasts:
 - [Martha Nussbaum on the Value of the Humanities](http://philosophybites.com/2010/12/martha-nussbaum-on-the-value-of-the-humanities.html)
 
 Special guest: Dr. Vivan Joseph. 
+
+## What is personal identity?
+Film: Memento (2000)
+
+Readings:
+
+- Cox & Levine "Personal Identity: The Case of Memento".
+- [Personal Identity](https://1000wordphilosophy.com/2014/02/10/personal-identity/) in 1000-Word Philosophy.
+
+Podcasts:
+
+- [Christopher Shields on Personal Identity](http://philosophybites.com/2008/11/christopher-shi.html)
+- [Paul Snowdon on Persons and Animals](http://philosophybites.com/2009/06/paul-snowdon-on-persons-and-animals.html)
 
 ## Is there free will?
 Film: Minority report
