@@ -66,8 +66,9 @@ Activity:
 <iframe width="100%" height="400" align="middle" src="../philandfilm/5.html" border="0"></iframe>
 <a href="../philandfilm/5.html">Slides in full screen</a>
 
-## Self assessment  
-
+## Assessment  
+<iframe width="100%" height="400" align="middle" src="../philandfilm/6.html" border="0"></iframe>
+<a href="../philandfilm/6.html">Slides in full screen</a>
 
 ## What is it to be human?
 Film: Blade Runner (1982)
