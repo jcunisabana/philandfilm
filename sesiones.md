@@ -84,6 +84,9 @@ Podcasts:
 
 Special guest: Dr. Vivan Joseph. 
 
+<iframe width="100%" height="400" align="middle" src="../philandfilm/7.html" border="0"></iframe>
+<a href="../philandfilm/7.html">Slides in full screen</a>
+
 ## What is personal identity?
 Film: Memento (2000)
 
