@@ -114,6 +114,8 @@ Podcasts:
 - [Daniel Dennett on Free Will Worth Wanting](http://philosophybites.com/2012/08/daniel-dennett-on-free-will-worth-wanting.html)
 - [Paul Russell on fate](http://philosophybites.com/2010/12/paul-russell-on-fate.html)
 
+<iframe width="100%" height="400" align="middle" src="../philandfilm/9.html" border="0"></iframe>
+<a href="../philandfilm/9.html">Slides in full screen</a>
 ## Dealing with scepticism about personal identity
 
 Activity:
