@@ -123,6 +123,10 @@ Activity:
 - Design a skeptical scenario about personal identity and how to get out of it.
 
 
+<iframe width="100%" height="400" align="middle" src="../philandfilm/10.html" border="0"></iframe>
+<a href="../philandfilm/10.html">Slides in full screen</a>
+
+
 ## Is time-travel possible?
 Films: La Jetée & Interstellar
 
