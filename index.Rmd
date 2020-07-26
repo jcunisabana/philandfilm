@@ -115,9 +115,9 @@ Bank holiday!
 
 #### Week 02
 
-<iframe width="100%" height="400" align="middle" src="1.html" border="0">
+<iframe width="100%" height="500" align="middle" src="01.html" border="0">
 </iframe>
-<a href="1.html">Presentación en pantalla completa</a>
+<a href="01.html">Fullscreen presentation</a>
 
 
 
@@ -162,8 +162,6 @@ An essay in which you defend a philosophical thesis. You must use the secondary 
 
 An video in which you defend a philosophical thesis. You must use the secondary literature, offer a clear argument and (at least loosly) based it on a film. 
 
-
----
 
 #### **Late submissions  **
 
