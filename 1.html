@@ -1,33 +1,37 @@
 <!doctype html>
-<html>
+<html lang="en">
+
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>JCES - Philosophy and Film</title>
+		<title>reveal.js – The HTML Presentation Framework</title>
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/night.css">
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+        		<link rel="stylesheet" href="css/estilo.css" >
+
 
 		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css" >
-						<link rel="stylesheet" href="css/estilo.css">
-
-
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
 	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
 
-<section  data-background-image ="img/film.jpeg" data-background-size = "auto">
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				
+<section  data-background-image ="img/16mm.jpg" data-background-size = "auto">
     
     
 <div class="container">
@@ -65,7 +69,7 @@
 </section>
 <!--				<section>Slide 2</section>-->
 
-<section  data-background-image ="img/film.jpeg" data-background-size = "auto">
+<section  data-background-image ="img/16mm.jpg" data-background-size = "auto">
  <h2 class="highlightred">Personal <br>introductions</h2>
 </section>
 
@@ -75,11 +79,21 @@
 
 
 <section data-transition="slide-in fade-out">
-How far along in your degree are you?<br> Why did you sign up for the course?<br> How did you learn English? <br> How many courses in English at university level have you taken? <br> Do you have any specific concerns/doubts/expectations about the course? 
+    
+    <ul>
+    <li>
+How far along in your degree are you?</li>
+    <li>Why did you sign up for the course?</li>
+    <li>How did you learn English?</li>
+    <li>How many courses in English at university level have you taken? </li>
+    <li>From what you already know or suppose, do you have any specific concerns/doubts/expectations about the course? </li>
+   
+    
+    </ul>
 </section>
 
-<section  data-background-image ="img/film.jpeg" data-background-size= "auto">
-<h3 class="highlightred">Test drive</h3>
+<section  data-background-image ="img/16mm.jpg" data-background-size = "auto">
+<h3 class="highlightred">Course content</h3>
     
 </section>
 
@@ -167,25 +181,30 @@ The main aim of the course is to develop language skills in English while at the
 				</section>
 
 			</div>
+
 		</div>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
-
-
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
 		<script>
-			// More info https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				history: true,
 
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
 			});
+
 		</script>
+
 	</body>
 </html>
