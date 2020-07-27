@@ -81,7 +81,7 @@ Course content
 
 *Unit 1 - Knowledge and reality*
 
-We will discuss  questions and their development in and through film: Is knowledge possible? What is knowledge? Why does knowledge of reality matter? Is time real?
+Is knowledge possible? What is knowledge? Why does knowledge of reality matter? Is time real?
 
 (Films: Total recall, Matrix, Truman Show, Inception, Interstellar, 12 Monkeys )
 
@@ -89,17 +89,17 @@ We will discuss  questions and their development in and through film: Is knowled
 
 *Unit 2 - Human nature*
 
-We will discuss issues about free will, personal identity, critical thinking, artificial intelligence and the nature of humanity.
-
+Is there free will? What makes you the person you are? What makes us human? What could artificial intelligence be?
+ 
 (Films: Blade runner, Gattaca, Ex Machina, Minority report, Looper)
 
 *(6 weeks)*
 
 *Unit 3 - Value and reality*
 
-We will discuss issues about the objetivity of morality, the role of thinking and moral  thoughtlessness.
+Is  morality objetive? What are the virtues and vices of critical thinking? What are the risks of moral thoughtlessness?
 
-(Films: Memento, The live, The act of killing, the Network, 12 angry men )
+(Films: Memento, They live, The act of killing, the Network, 12 angry men )
 
 (*5 weeks*)
 
@@ -178,7 +178,7 @@ If something else happens, it is important to speak with the me. Let’s talk. W
 #### Grades
 
 
-|Module|Activity|Percentage|
+|Unit|Activity|Percentage|
 | --- | --- | --- |
 |1|    Videos & Quizes           |15%
 |    1 |   Skeptical scenario 1                               |    15%
