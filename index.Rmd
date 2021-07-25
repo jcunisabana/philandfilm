@@ -121,11 +121,11 @@ Slides
 <a href="0
 01.html">Fullscreen presentation</a>
 
-<!-- #### Week 02 -->
+#### Week 02
 
-<!-- <iframe width="100%" height="500" align="middle" src="02.html" border="0"> -->
-<!-- </iframe> -->
-<!-- <a href="02.html">Fullscreen presentation</a> -->
+<iframe width="100%" height="500" align="middle" src="02.html" border="0">
+</iframe>
+<a href="02.html">Fullscreen presentation</a>
 
 <!-- #### Week 03 -->
 
