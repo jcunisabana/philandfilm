@@ -151,11 +151,11 @@ Bank holiday.
 </iframe>
 <a href="06.html">Fullscreen presentation</a>
 
-<!-- #### Week 07 -->
+#### Week 07
 
-<!-- <iframe width="100%" height="500" align="middle" src="07.html" border="0"> -->
-<!-- </iframe> -->
-<!-- <a href="07.html">Fullscreen presentation</a> -->
+<iframe width="100%" height="500" align="middle" src="07.html" border="0">
+</iframe>
+<a href="07.html">Fullscreen presentation</a>
 
 <!-- #### Week 08 -->
 
