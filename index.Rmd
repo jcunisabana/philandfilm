@@ -165,11 +165,11 @@ Bank holiday.
 
 <img src="img/331553.svg" style=" padding:5px;">
 
-<!-- #### Week 09 -->
+#### Week 09
 
-<!-- <iframe width="100%" height="500" align="middle" src="09.html" border="0"> -->
-<!-- </iframe> -->
-<!-- <a href="09.html">Fullscreen presentation</a> -->
+<iframe width="100%" height="500" align="middle" src="09.html" border="0">
+</iframe>
+<a href="09.html">Fullscreen presentation</a>
 
 <!-- <img src="img/331553.svg" style=" padding:5px;"> -->
 
