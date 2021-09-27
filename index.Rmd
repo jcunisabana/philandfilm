@@ -179,13 +179,13 @@ Bank holiday.
 </iframe>
 <a href="10.html">Fullscreen presentation</a>
 
-<!-- <img src="img/331553.svg" style=" padding:5px;"> -->
+<img src="img/331553.svg" style=" padding:5px;">
 
-<!-- #### Week 11 -->
+#### Week 11
 
-<!-- <iframe width="100%" height="500" align="middle" src="11.html" border="0"> -->
-<!-- </iframe> -->
-<!-- <a href="11.html">Fullscreen presentation</a> -->
+<iframe width="100%" height="500" align="middle" src="11.html" border="0">
+</iframe>
+<a href="11.html">Fullscreen presentation</a>
 
 <!-- #### Week 12 -->
 
